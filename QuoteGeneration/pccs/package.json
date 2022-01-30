@@ -4,7 +4,7 @@
   "version": "1.11.0",
   "dependencies": {
     "@fidm/x509": "^1.2.1",
-    "ajv": "^6.12.4",
+    "ajv": "^8.8.2",
     "body-parser": "^1.19.0",
     "caw": "^2.0.1",
     "cls-hooked": "^4.2.2",
