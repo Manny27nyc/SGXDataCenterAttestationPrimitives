@@ -22,7 +22,7 @@
     "sequelize": "^6.6.5",
     "sqlite3": "^5.0.2",
     "tar": "^4.4.18",
-    "umzug": "^2.3.0",
+    "umzug": "^3.0.0",
     "winston": "^3.3.3"
   },
   "engines": {
